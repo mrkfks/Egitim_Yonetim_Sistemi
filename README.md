@@ -58,15 +58,24 @@
 - Express SSR server (Angular server bundle)
 
 ## Ekran Görselleri
-> Aşağıdaki görseller placeholder niteliğindedir; `docs/screenshots` dizinine kendi çıktılarını ekleyebilirsiniz.
-
-| Sayfa | Açıklama | Görsel |
-|-------|----------|--------|
-| Anasayfa | Kategorilere göre filtrelenebilir kurs listesi | ![Home](docs\screenshots\Anasayfa.png) |
-| Kurs Detay | Ders listesi + yorumlar | ![Course Detail](docs\screenshots\Kurslar.png) |
-| Giriş Yap | Login Formu| ! [Login] (docs\screenshots\Giriş Yap.png) |
-| Profil | Öğrenci / Eğitici metrikleri | ![Profile](docs\screenshots\Eğitici Profili.png) |
-| Kayıt Ol | Rol seçimi + validasyon | ![Register](docs\screenshots\Kayıt Ol .png) |
+##Anasayfa
+<img width="1907" height="909" alt="Anasayfa" src="https://github.com/user-attachments/assets/b2a54bce-fd50-47cd-83a2-ab274b1d07a7" />
+##Eğitici Profili
+<img width="1903" height="909" alt="Eğitici Profili" src="https://github.com/user-attachments/assets/e93c9813-b578-4779-bcba-3c4459c52bf0" />
+##Giriş Yap
+<img width="1906" height="911" alt="Giriş Yap" src="https://github.com/user-attachments/assets/cc899130-51e7-4ba7-af7d-2384cb123e2c" />
+##Hakkımızda
+<img width="1891" height="907" alt="Hakkımızda" src="https://github.com/user-attachments/assets/be6d636b-3fa6-4bda-b27b-b9cbc65447e8" />
+##Kayıt Ol
+<img width="1888" height="907" alt="Kayıt Ol " src="https://github.com/user-attachments/assets/ac56d0f2-a796-46ee-8080-1f3bc52263a8" />
+## Kurs Yönetimi
+<img width="1897" height="900" alt="Kurs Yönetimi" src="https://github.com/user-attachments/assets/68d71313-cc73-4f4a-a915-4d367d4b1e5c" />
+##Kurslar
+<img width="1893" height="905" alt="Kurslar" src="https://github.com/user-attachments/assets/6c00e821-ece9-4788-a2d5-176077e6a258" />
+##Navbar
+<img width="1892" height="910" alt="Navbar" src="https://github.com/user-attachments/assets/9b40233e-069b-4dc3-980c-59f40dd93e08" />
+##Öğrenci Profili
+<img width="1892" height="905" alt="Öğrenci Profil" src="https://github.com/user-attachments/assets/8c2abf4f-751f-41cd-9a27-2951d583ad10" />
 
 Hızlı oluşturmak için (Windows PowerShell):
 ```powershell
