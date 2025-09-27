@@ -10,24 +10,25 @@
 </div>
 
 ## İçindekiler
-- [İçindekiler](#i̇çindekiler)
-- [Genel Bakış](#genel-bakış)
-- [Öne Çıkan Özellikler](#öne-çıkan-özellikler)
-- [Teknoloji Yığını](#teknoloji-yığını)
-- [Ekran Görselleri](#ekran-görselleri)
-- [Kurulum](#kurulum)
-- [Çalıştırma / Komutlar](#çalıştırma--komutlar)
-- [Mimari Notlar](#mimari-notlar)
-- [Veri Modeli (db.json)](#veri-modeli-dbjson)
-- [Guard ve Yetkilendirme](#guard-ve-yetkilendirme)
-- [Önbellek ve Performans](#önbellek-ve-performans)
-- [Arama Sistemi](#arama-sistemi)
-- [Metrikler](#metrikler)
-- [SSR \& Prerender](#ssr--prerender)
-- [Güvenlik Sertleştirme](#güvenlik-sertleştirme)
-- [Geliştirme Yol Haritası](#geliştirme-yol-haritası)
-- [Katkı](#katkı)
-- [Lisans](#lisans)
+- [Egitim\_Yonetim\_Sistemi](#egitim_yonetim_sistemi)
+	- [İçindekiler](#i̇çindekiler)
+	- [Genel Bakış](#genel-bakış)
+	- [Öne Çıkan Özellikler](#öne-çıkan-özellikler)
+	- [Teknoloji Yığını](#teknoloji-yığını)
+	- [Ekran Görselleri](#ekran-görselleri)
+	- [Kurulum](#kurulum)
+	- [Çalıştırma / Komutlar](#çalıştırma--komutlar)
+	- [Mimari Notlar](#mimari-notlar)
+	- [Veri Modeli (db.json)](#veri-modeli-dbjson)
+	- [Guard ve Yetkilendirme](#guard-ve-yetkilendirme)
+	- [Önbellek ve Performans](#önbellek-ve-performans)
+	- [Arama Sistemi](#arama-sistemi)
+	- [Metrikler](#metrikler)
+	- [SSR \& Prerender](#ssr--prerender)
+	- [Güvenlik Sertleştirme](#güvenlik-sertleştirme)
+	- [Geliştirme Yol Haritası](#geliştirme-yol-haritası)
+	- [Katkı](#katkı)
+	- [Lisans](#lisans)
 
 ---
 
@@ -61,12 +62,11 @@
 
 | Sayfa | Açıklama | Görsel |
 |-------|----------|--------|
-| Anasayfa | Kategorilere göre filtrelenebilir kurs listesi | ![Home](docs/screenshots/home.png) |
-| Kurs Detay | Ders listesi + yorumlar | ![Course Detail](docs/screenshots/course-detail.png) |
-| Eğitici Paneli | Kurs oluşturma / düzenleme formu | ![Edit Courses](docs/screenshots/edit-courses.png) |
-| Profil | Öğrenci / Eğitici metrikleri | ![Profile](docs/screenshots/profile.png) |
-| Arama | Canlı global arama sonuçları | ![Search](docs/screenshots/search.png) |
-| Kayıt Ol | Rol seçimi + validasyon | ![Register](docs/screenshots/register.png) |
+| Anasayfa | Kategorilere göre filtrelenebilir kurs listesi | ![Home](docs\screenshots\Anasayfa.png) |
+| Kurs Detay | Ders listesi + yorumlar | ![Course Detail](docs\screenshots\Kurslar.png) |
+| Giriş Yap | Login Formu| ! [Login] (docs\screenshots\Giriş Yap.png) |
+| Profil | Öğrenci / Eğitici metrikleri | ![Profile](docs\screenshots\Eğitici Profili.png) |
+| Kayıt Ol | Rol seçimi + validasyon | ![Register](docs\screenshots\Kayıt Ol .png) |
 
 Hızlı oluşturmak için (Windows PowerShell):
 ```powershell
